@@ -1,7 +1,7 @@
 # 💰 Smart Daily Expense Tracker
 
 A privacy-first web application designed for students and individuals to track, analyze, and understand their daily expenses using Excel/CSV uploads.
-🔗 **Live App:** https://your-app-name.streamlit.app
+🔗 **Live App:** [ https://s-e-tracker.streamlit.app ]
 
 ## 🚀 Features
 - Upload monthly expense files (Excel/CSV)
@@ -32,4 +32,5 @@ Deployed using Streamlit Community Cloud.
 
 ## 📌 Use Case
 Ideal for college students, individuals, and households who want a simple and privacy-friendly way to analyze spending habits.
+
 
